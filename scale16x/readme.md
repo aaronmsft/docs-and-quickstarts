@@ -1,4 +1,4 @@
-# Quickstarts (via [docs.microsoft.com](https://docs.microsoft.com/azure)
+# Quickstarts (via [docs.microsoft.com](https://docs.microsoft.com/azure))
 
 
 - [Create your first container in Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal)
